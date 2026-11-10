@@ -1,0 +1,68 @@
+{
+  "version": "0.2.0",
+  "runtime": "7.3.0",
+  "passed": [
+    "saturation at zero Celsius",
+    "explicit quantile convention",
+    "zero diffusivity",
+    "three Python RHS fixtures",
+    "pointwise energy and water conservation",
+    "uniform equilibrium",
+    "invalid inputs rejected",
+    "constitutive callbacks",
+    "stage restart continuity",
+    "unreached threshold",
+    "initially reached threshold",
+    "portable callback export",
+    "four-grid integration and Python trajectory parity",
+    "zero transport coefficients",
+    "numeric user constants",
+    "material presets",
+    "pointwise oxygen conservation",
+    "colored sparse Jacobian versus individual columns"
+  ],
+  "rhsError": 1.1102230246251565e-16,
+  "grid": [
+    [
+      10.0,
+      20.306618214086853,
+      0.0001279953095085773,
+      0.00021917895291068135,
+      9.322177151677332e-07,
+      1.0189665928520529e-11,
+      34.83059096843122,
+      2.651447057723999
+    ],
+    [
+      20.0,
+      20.335288033126034,
+      0.00019153235442459504,
+      0.0003036160905978136,
+      1.777001944980149e-06,
+      1.0143542510250614e-11,
+      34.88010142605896,
+      3.5536019802093506
+    ],
+    [
+      40.0,
+      20.323010292439356,
+      0.0001718209432404194,
+      0.0003015807790696101,
+      3.581012157747569e-06,
+      1.6498917452325796e-12,
+      34.859199715374274,
+      3.8618528842926025
+    ],
+    [
+      60.0,
+      20.316695899928064,
+      4.570720135532724e-05,
+      0.0001317769610942321,
+      4.265395972950301e-08,
+      1.5891678255064427e-12,
+      34.84842067297221,
+      4.911005973815918
+    ]
+  ],
+  "testGroups": 18.0
+}

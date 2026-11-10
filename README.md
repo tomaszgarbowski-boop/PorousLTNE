@@ -85,5 +85,9 @@ model balance checks do not establish experimental validity. The conditioning
 energy indicator is idealized, not measured plant electricity.
 
 Version 0.2.0 is prepared for author review. No public repository or permanent
-archive identifier has been assigned. `Licence.txt` contains proposed MIT
-wording requiring approval and identification of the copyright holder.
+archive identifier has been assigned.
+
+## License
+
+MIT License. Copyright (c) 2026 Tomasz Garbowski and Dawid Karasiewicz.
+See `Licence.txt` for the complete license text.

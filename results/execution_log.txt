@@ -1,0 +1,20 @@
+Successful execution of phase and oxygen mesh studies, four 80-cell runs, and complete regression suite
+
+PorousLTNE 0.2.0 initialized. Run example_compost or test_porousltne.
+phase_cycle N=10 maxT=1.2321 C median=5.964 s
+phase_cycle N=20 maxT=0.60587 C median=6.481 s
+phase_cycle N=40 maxT=0.2707 C median=7.484 s
+phase_cycle N=80 maxT=0.086881 C median=7.465 s
+oxygen_limited N=10 maxT=1.4641 C median=2.688 s
+oxygen_limited N=20 maxT=0.82754 C median=3.752 s
+oxygen_limited N=40 maxT=0.3908 C median=2.988 s
+oxygen_limited N=80 maxT=0.13667 C median=3.896 s
+heating: maxTs=40.0000 C, minY=0.233, wall=3.610 s
+phase_cycle: maxTs=39.8329 C, minY=0.22203, wall=7.761 s
+oxygen_limited: maxTs=45.3992 C, minY=0.00020195, wall=2.856 s
+oxygen_supplied: maxTs=46.4139 C, minY=0.024468, wall=3.089 s
+N=10 t95=20.30661821 h parity=0.000128 h temperature=0.0002192 C
+N=20 t95=20.33528803 h parity=0.0001915 h temperature=0.0003036 C
+N=40 t95=20.32301029 h parity=0.0001718 h temperature=0.0003016 C
+N=60 t95=20.31669590 h parity=4.571e-05 h temperature=0.0001318 C
+18 test groups passed; scaled RHS error 1.11e-16; runtime 7.3.0

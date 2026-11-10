@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-10",
+  "os": "Linux",
+  "machine": "x86_64",
+  "python": "3.12.14",
+  "cpu": "AMD EPYC 9V74 80-Core Processor",
+  "runtime": "GNU Octave 7.3.0; SUNDIALS/IDA with sparse Jacobian",
+  "thread_env": {
+    "OPENBLAS_NUM_THREADS": 1,
+    "OMP_NUM_THREADS": 1
+  },
+  "timing_scope": "wall clock, complete plt.simulate excluding I/O, 3 sequential repetitions after warm-up"
+}
