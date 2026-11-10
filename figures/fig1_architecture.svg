@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="377.1pt" height="191.808pt" viewBox="0 0 377.1 191.808" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T18:47:22.401359</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 191.808 
+L 377.1 191.808 
+L 377.1 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.454 68.70144 
+L 105.129 68.70144 
+Q 108.0306 68.70144 108.0306 66.336 
+L 108.0306 27.8976 
+Q 108.0306 25.53216 105.129 25.53216 
+L 14.454 25.53216 
+Q 11.5524 25.53216 11.5524 27.8976 
+L 11.5524 66.336 
+Q 11.5524 68.70144 14.454 68.70144 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #edf3f8; stroke: #38566f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 139.5855 68.70144 
+L 230.2605 68.70144 
+Q 233.1621 68.70144 233.1621 66.336 
+L 233.1621 27.8976 
+Q 233.1621 25.53216 230.2605 25.53216 
+L 139.5855 25.53216 
+Q 136.6839 25.53216 136.6839 27.8976 
+L 136.6839 66.336 
+Q 136.6839 68.70144 139.5855 68.70144 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #edf3f8; stroke: #38566f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 268.344 68.70144 
+L 359.019 68.70144 
+Q 361.9206 68.70144 361.9206 66.336 
+L 361.9206 27.8976 
+Q 361.9206 25.53216 359.019 25.53216 
+L 268.344 25.53216 
+Q 265.4424 25.53216 265.4424 27.8976 
+L 265.4424 66.336 
+Q 265.4424 68.70144 268.344 68.70144 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #edf3f8; stroke: #38566f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 268.344 142.62144 
+L 359.019 142.62144 
+Q 361.9206 142.62144 361.9206 140.256 
+L 361.9206 101.8176 
+Q 361.9206 99.45216 359.019 99.45216 
+L 268.344 99.45216 
+Q 265.4424 99.45216 265.4424 101.8176 
+L 265.4424 140.256 
+Q 265.4424 142.62144 268.344 142.62144 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #edf3f8; stroke: #38566f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 139.5855 142.62144 
+L 230.2605 142.62144 
+Q 233.1621 142.62144 233.1621 140.256 
+L 233.1621 101.8176 
+Q 233.1621 99.45216 230.2605 99.45216 
+L 139.5855 99.45216 
+Q 136.6839 99.45216 136.6839 101.8176 
+L 136.6839 140.256 
+Q 136.6839 142.62144 139.5855 142.62144 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #edf3f8; stroke: #38566f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 14.454 142.62144 
+L 105.129 142.62144 
+Q 108.0306 142.62144 108.0306 140.256 
+L 108.0306 101.8176 
+Q 108.0306 99.45216 105.129 99.45216 
+L 14.454 99.45216 
+Q 11.5524 99.45216 11.5524 101.8176 
+L 11.5524 140.256 
+Q 11.5524 142.62144 14.454 142.62144 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #edf3f8; stroke: #38566f; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 110.758332 47.1168 
+Q 122.357116 47.1168 132.614258 47.1168 
+" clip-path="url(#p66e947f1a2)" style="fill: none; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 127.814258 44.7168 
+L 132.614258 47.1168 
+L 127.814258 49.5168 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #38566f; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 235.885848 47.1168 
+Q 249.300147 47.1168 261.372805 47.1168 
+" clip-path="url(#p66e947f1a2)" style="fill: none; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 256.572805 44.7168 
+L 261.372805 47.1168 
+L 256.572805 49.5168 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #38566f; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 313.6815 71.296003 
+Q 313.6815 84.077361 313.6815 95.517077 
+" clip-path="url(#p66e947f1a2)" style="fill: none; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 316.0815 90.717077 
+L 313.6815 95.517077 
+L 311.2815 90.717077 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #38566f; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 262.715774 121.0368 
+Q 250.20924 121.0368 239.044346 121.0368 
+" clip-path="url(#p66e947f1a2)" style="fill: none; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 243.844346 123.4368 
+L 239.044346 121.0368 
+L 243.844346 118.6368 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #38566f; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 133.956168 121.0368 
+Q 122.357384 121.0368 112.100242 121.0368 
+" clip-path="url(#p66e947f1a2)" style="fill: none; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 116.900242 123.4368 
+L 112.100242 121.0368 
+L 116.900242 118.6368 
+z
+" clip-path="url(#p66e947f1a2)" style="fill: #38566f; stroke: #38566f; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(26.530305 40.956741)">Material and state</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(16.945062 49.131144)">properties and closures</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(23.23732 57.305547)">local user constants</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(159.324523 40.956741)">Inlet schedule</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(147.513922 49.131144)">temperature and RH</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(152.209875 57.305547)">prescribed airflow</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(280.625617 40.956741)">Conservative core</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(280.431141 49.131144)">five coupled fields</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(274.830102 57.305547)">enthalpy and species</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(281.923648 114.876741)">Stage integration</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(284.983375 123.051144)">sparse Jacobian</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(278.854227 131.225547)">ode15s and events</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(163.743305 114.876741)">Diagnostics</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(149.686242 123.051144)">fields and balances</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(147.796227 131.225547)">MAT and CSV export</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(19.971141 114.876741)">Verification and reuse</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(26.110555 123.051144)">exact benchmarks</text>
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'" transform="translate(20.349828 131.225547)">three demonstrations</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="188.55" y="174.2592" transform="rotate(-0 188.55 174.2592)">Shared transport equations; replaceable local material, reaction and exchange laws</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p66e947f1a2">
+   <rect x="7.2" y="7.2" width="362.7" height="177.408"/>
+  </clipPath>
+ </defs>
+</svg>

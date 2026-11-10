@@ -1,0 +1,11 @@
+Fig. 1. Software architecture. Material coefficients and local closures configure a shared conservative core; integration, diagnostics and verification use the same state definition.
+
+Fig. 2. Exact verification problems: (a) matrix-conduction RMS error; (b) passive-advection L1 error; (c) normalized first-order reaction error versus solver tolerance; (d) translated oxygen pulse at 160 cells. The dashed slope guides in (a) and (b) represent orders two and one.
+
+Fig. 3. Nonreactive heating: (a) mean gas and matrix temperatures with the matrix temperature range; (b) axial matrix-temperature profiles at selected times. Phase transfer and reaction are disabled.
+
+Fig. 4. Drying followed by humidification: (a) inlet and mean phase temperatures; (b) total and liquid-water inventory changes. The vertical line marks the prescribed inlet change at 4 h; total and liquid changes are nearly coincident at this scale.
+
+Fig. 5. Reactive self-heating at two prescribed flow rates: (a) mean matrix temperature; (b) outlet-to-inlet oxygen ratio. Both runs use the same local uptake law and an inlet temperature of 25 °C.
+
+Fig. 6. Accuracy and cost across the three regimes: (a) median wall time with minimum–maximum bars for three repetitions; (b) maximum matrix-temperature difference from the 160-cell reference. Timing excludes file I/O and plotting.

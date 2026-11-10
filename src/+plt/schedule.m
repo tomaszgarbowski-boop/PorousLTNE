@@ -1,0 +1,13 @@
+function s = schedule(times,controls)
+%SCHEDULE Piecewise constant controls; stage start times in seconds.
+% Example: plt.schedule([0 7 14]*3600,[30 .95 .03;28 .7 .04;27 .6 .04]).
+times=times(:);
+assert(~isempty(times)&&times(1)==0&&all(isfinite(times))&&all(diff(times)>0), ...
+ 'plt:schedule','Stage times must start at zero and increase strictly.');
+assert(size(controls,1)==numel(times)&&size(controls,2)==3&&all(isfinite(controls(:))), ...
+ 'plt:schedule','One [T,RH,u] row is required per stage.');
+assert(all(controls(:,1)>=0&controls(:,1)<=60)&& ...
+ all(controls(:,2)>=0&controls(:,2)<=1)&&all(controls(:,3)>=0), ...
+ 'plt:schedule','Require T in [0,60], RH in [0,1], and nonnegative airflow.');
+s=struct('times',times,'controls',controls);
+end
